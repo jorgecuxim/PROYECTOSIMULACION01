@@ -7,4 +7,4 @@
 - GRADO Y GRUPO: 5ª
 - FECHA DE ENTREGA: 08/09/2023.
 
-![UNIVERSIDAD DEL SUR](https://universidaddelsur.edu.mx/unisur/wp-content/uploads/2022/03/logos-oficiales-180x180.png "UNIVERSIDAD DEL SUR")
+![UNIVERSIDAD DEL SUR](https://universidaddelsur.edu.mx/unisur/wp-content/uploads/2022/03/logos-oficiales.png "UNIVERSIDAD DEL SUR")
